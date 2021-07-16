@@ -24,3 +24,13 @@ var goodPlan = ['exercise', 'routine', 'morning ritual'];
 var trees = ['pine', 'sprouce', 'ginko'];
 
 Object Variables
+
+Here is my Object
+
+var Henry = {
+  fullName: "Henry Endorphin Banana Corcoran",
+  mealsPerDay: 3,
+  lovesChicken: true,
+
+
+}
